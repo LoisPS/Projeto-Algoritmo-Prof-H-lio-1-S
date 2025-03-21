@@ -19,9 +19,9 @@
 
 //TESTE DE MESA 
 
-// Entrada (°C)| Cálculo (°F=°C*9/5+32) | Saída (°F)|
-// 0           | (0*9/5)+32=32.0        | 32.0      |
-// 25.0        | (25.0**9/5)+32=77.0    | 77.0      |
+// Entrada (°C)| Cálculo (°F=°C*9/5+32).  | Saída (°F)|
+// 0           | (0*9/5)=0+32=32.0        | 32.0      |
+// 25.0        | (25.0**9/5)=45+32=77.0   | 77.0      |
 
 
 package javaapplicationconvertemp;

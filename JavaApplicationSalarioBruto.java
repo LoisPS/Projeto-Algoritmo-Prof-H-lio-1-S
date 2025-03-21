@@ -26,7 +26,7 @@
 
 // | HNormais    | HExtras    | SBruto    | SLiquido | Saída (R$)                                                |
 // | 160         | 10         | 1.750     | 1.575    | SB:(160*10)+(10*15)=1.600+150=1.750 / SL: 1.750*0.9=1.575 |
-// | 40          | 10         | 550       | 495.00   | SB: (40*10)+(10*15)=400+150=550  / SL: 550.00*0.9=495.00
+// | 40          | 10         | 550       | 495.00   | SB: (40*10)+(10*15)=400+150=550  / SL: 550.00*0.9=495.00. |
 
 
 
@@ -36,7 +36,7 @@ import javax.swing.JOptionPane;
 
 public class JavaApplicationSalarioBruto {
 
-    public static void main(String[] args) { // Removed sBruto from main arguments
+    public static void main(String[] args) { 
 
         String inputHNormais = JOptionPane.showInputDialog("Digite a quantidade de horas normais trabalhadas:");
         double hNormais = Double.parseDouble(inputHNormais);

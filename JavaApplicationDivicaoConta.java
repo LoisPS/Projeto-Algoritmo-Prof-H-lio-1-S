@@ -35,7 +35,7 @@ import javax.swing.JOptionPane;
 public class JavaApplicationDivicaoConta {
 
     public static void main(String[] args) {
-        // Ler o valor total da conta10
+        
         String input = JOptionPane.showInputDialog("Digite o valor total da conta:");
         double TotalConta = Double.parseDouble(input); 
     

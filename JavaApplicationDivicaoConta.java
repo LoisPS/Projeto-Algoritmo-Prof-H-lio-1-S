@@ -24,8 +24,9 @@
 
 //TESTE DE MESA 
 
-// Entrada (Conta Total)| Carlos | ANDRE | Felipe|
-// R$203,04             | 67,00  | 67,00 | 69,04 |
+//| Entrada (Conta Total) | Carlos | ANDRE  | Felipe |
+//| R$107,25              | 35,00  | 35,00  | 37,25  |
+//| R$203,04              | 67,00  | 67,00  | 69,04  |
 
 
 package javaapplicationdivicaoconta;
